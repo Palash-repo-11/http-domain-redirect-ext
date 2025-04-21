@@ -1,0 +1,30 @@
+#domains-container{
+    height:300px;
+    width:100vw;
+    background-color: rgb(122, 204, 122);
+}
+#main-container{
+    background-color: rgb(121, 110, 110);
+    height: 400px;
+    width: 600px;
+}
+
+.domain-input{
+    height: 60px;
+    width: 100%;
+}
+.filter{
+    background-color: red;
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+}
+.protocalls{
+    display: inline-block;
+}
+.readme{
+    height: auto;
+    width: auto;
+    padding: 40px;
+    background-color: yellow;
+}
